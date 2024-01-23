@@ -26,7 +26,7 @@ dotnet run
 
 ###### Llamar /generatePDF
 
-Luego de esto recien se va a mostrar el pdf. Esto es por que el metodo que genera el previewer esta dentro de este metodo
+Luego de esto recien se va a mostrar el PDF. Esto es por que el metodo que genera el previewer esta dentro de este metodo
 
 ```
 app.MapGet("/generatePDF", () =>
