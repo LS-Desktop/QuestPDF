@@ -12,7 +12,6 @@ dotnet tool install QuestPDF.Previewer --global
 
 ###### Abrir Previewer
 
-Ejecutar en consola 
 
 ```
 questpdf-previewer
@@ -20,7 +19,6 @@ questpdf-previewer
 
 ###### Ejecutar api
 
-Ejecutar en consola 
 
 ```
 dotnet run
